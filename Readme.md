@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Александра Мегриш](https://up.htmlacademy.ru/ecmascript/14/user/1752799).
-* Наставник: [Артемий Бойков](https://htmlacademy.ru/profile/id607755)
+* Наставник: [Артемий Бойков](https://htmlacademy.ru/profile/id607755).
 
 ---
 
