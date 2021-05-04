@@ -8,14 +8,11 @@ import {createEventFormEditTemplate} from './view/point-form-edit.js';
 import {createEventFormAddTemplate} from './view/point-form-add.js';
 import {createEventTemplate} from './view/point.js';
 
-
-
 const EVENT_COUNT = 3;
 
 const render = (container, template, place) => {
   container.insertAdjacentHTML(place, template);
 };
-
 
 const siteHeaderElement = document.querySelector('.page-header');
 const tripMainElement = siteHeaderElement.querySelector('.trip-main');
